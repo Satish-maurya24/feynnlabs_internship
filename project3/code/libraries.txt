@@ -1,0 +1,8 @@
+Pandaas
+Scikit-learn
+matplotlib
+seaborn
+nltk
+worlcloud
+string
+yellowbrick
